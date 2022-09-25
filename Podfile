@@ -9,6 +9,7 @@ target 'MovieApp' do
   pod 'Firebase'
   pod "TinyConstraints"
   pod 'FirebaseMessaging'
+  pod 'Kingfisher', '~> 7.0'
 
   # Pods for MovieApp
 
